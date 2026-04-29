@@ -1,6 +1,6 @@
 def dobro(a):
-    r = a * 2
-    return r    
+     r = a * 2
+     return r    
 
 
 n1 = int(input('Número 1: '))
@@ -28,3 +28,7 @@ def quadrado(n):
 num = int(input('Informe o número:'))
 resp = quadrado(num)
 print(resp)
+
+
+
+

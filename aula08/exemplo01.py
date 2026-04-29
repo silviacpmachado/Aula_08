@@ -1,11 +1,10 @@
 # funções
-def saudacao(x):
-    print(f'Oi,{x} como vai?')
+# def saudacao(x):
+#     print(f'Oi,{x} como vai?')
 
 
-nome = 'Anna'
-saudacao(nome)
-
+# nome = 'Anna'
+# saudacao(nome)
 
 # for i in range(5):
 #     saudacao()
